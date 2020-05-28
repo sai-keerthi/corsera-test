@@ -1,9 +1,8 @@
 * {
 		box-sizing: border-box;
+		font-family: italic;
 	}
-	body {
-		background-color: #9E8851;
-	}
+
 	h1 {
 		margin: 100px;
 		text-align: center;
